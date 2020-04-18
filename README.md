@@ -2,5 +2,5 @@
 Assignments of lecture
 
 ## linear discriminant analysis
-![fisher](https://github.com/arahatashun/Intelligent-Systems/blob/master/backtrack/backtrack.png "backtrack")
-![digits]()
+![fisher](https://github.com/arahatashun/Statistical_Machine_Learning/blob/master/linear_discriminant_analysis/fisher.png")
+![digits](https://github.com/arahatashun/Statistical_Machine_Learning/blob/master/linear_discriminant_analysis/digit.png)
