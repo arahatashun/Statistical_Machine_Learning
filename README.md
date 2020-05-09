@@ -9,6 +9,6 @@ Assignments of lecture
 
 ![asymp](https://github.com/arahatashun/Statistical_Machine_Learning/blob/master/asymptotic_normality/asymp.png)
 
-## 3.projection pursuitregression
+## 3.projection pursuit regression
 A comparison between s^4 and logcohs(s)
 ![ppr](https://github.com/arahatashun/Statistical_Machine_Learning/blob/master/projection_pursuit_regression/ppr.png)
