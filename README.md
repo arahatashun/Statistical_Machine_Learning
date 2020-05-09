@@ -8,3 +8,6 @@ Assignments of lecture
 ## 2.asymptotic normality of ML estimated variance of normal distribution
 
 ![asymp](https://github.com/arahatashun/Statistical_Machine_Learning/blob/master/asymptotic_normality/asymp.png)
+
+## 3.projection pursuitregression
+A comparison between s^4 and logcohs(s)
