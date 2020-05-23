@@ -59,6 +59,7 @@ def density(x, data, h):
     # print(tmp)
     return res
 
+
 def lcv(data):
     """ likelihood cross validation
     :return:
@@ -69,13 +70,15 @@ def lcv(data):
     for i in range(len(candidate)):
         for j in range(6):
             ind = np.ones(3000, dtype=bool)
-            ind[500*j:500*(j+1)] = False
-            test = data[:, 500*j:500*(j+1)]
+            ind[500 * j:500 * (j + 1)] = False
+            test = data[:, 500 * j:500 * (j + 1)]
             train = data[:, ind]
             # print("train", train.shape)
             # print("test", test.shape)
-            scores[i] += 1/(6 * 500) * np.sum([np.log(density(test[:, k], train, candidate[i])) for k in range(len(test))])
+            scores[i] += 1 / (6 * 500) * np.sum(
+                [np.log(density(test[:, k], train, candidate[i])) for k in range(len(test))])
     print(scores)
+
 
 if __name__ == '__main__':
     data = data_generate()
