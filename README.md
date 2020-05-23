@@ -15,3 +15,6 @@ A comparison between s^4 and logcosh(s)
 
 ## 4.EM algorithm
 ![em](https://github.com/arahatashun/Statistical_Machine_Learning/blob/master/em/em.png)
+
+## 5.Gaussian kernel density estimation
+![nonpara](https://github.com/arahatashun/Statistical_Machine_Learning/blob/master/kernel_density_estimation/gaussian_kernel.png)
