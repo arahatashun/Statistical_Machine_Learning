@@ -18,3 +18,6 @@ A comparison between s^4 and logcosh(s)
 
 ## 5.Gaussian kernel density estimation
 ![nonpara](https://github.com/arahatashun/Statistical_Machine_Learning/blob/master/kernel_density_estimation/gaussian_kernel.png)
+
+## 6.K-nearest neighbor 
+![nonpara](https://github.com/arahatashun/Statistical_Machine_Learning/blob/master/knn/kNN.png)
