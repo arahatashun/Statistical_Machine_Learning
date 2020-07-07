@@ -24,5 +24,7 @@ A comparison between s^4 and logcosh(s)
 
 ## 7. Probabilistic Matrix Factorization using Variational Bayesian Inference
 
+Dataset [MovieLens](https://grouplens.org/datasets/movielens/)
+
 Reference:
 [Y. J. Lim and Y. W. Teh. Variational Bayesian approach to movie rating prediction. In: Proceedings of KDD cup and workshop. Vol. 7. Citeseer. 2007, pp.15--21.](https://www.cs.uic.edu/~liub/KDD-cup-2007/proceedings/variational-Lim.pdf)
