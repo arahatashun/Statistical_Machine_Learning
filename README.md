@@ -21,3 +21,8 @@ A comparison between s^4 and logcosh(s)
 
 ## 6.K-nearest neighbor 
 ![nonpara](https://github.com/arahatashun/Statistical_Machine_Learning/blob/master/knn/kNN.png)
+
+## 7.
+
+Reference:
+[Y. J. Lim and Y. W. Teh. Variational Bayesian approach to movie rating prediction. In: Proceedings of KDD cup and workshop. Vol. 7. Citeseer. 2007, pp.15--21.](https://www.cs.uic.edu/~liub/KDD-cup-2007/proceedings/variational-Lim.pdf)
