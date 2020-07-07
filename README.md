@@ -28,3 +28,4 @@ Dataset [MovieLens](https://grouplens.org/datasets/movielens/)
 
 Reference:
 [Y. J. Lim and Y. W. Teh. Variational Bayesian approach to movie rating prediction. In: Proceedings of KDD cup and workshop. Vol. 7. Citeseer. 2007, pp.15--21.](https://www.cs.uic.edu/~liub/KDD-cup-2007/proceedings/variational-Lim.pdf)
+[Julia implementation](https://rf00.hatenablog.com/entry/2018/09/21/184311)
