@@ -22,9 +22,7 @@ A comparison between s^4 and logcosh(s)
 ## 6.K-nearest neighbor 
 ![nonpara](https://github.com/arahatashun/Statistical_Machine_Learning/blob/master/knn/kNN.png)
 
-## 7. Probabilistic Matrix Factorization using Variational Bayesian Inference
-
-Dataset [MovieLens](https://grouplens.org/datasets/movielens/)
+## 7. Probabilistic Matrix Factorization using Variational Bayesian Inference (using stan)
 
 Reference:
 
